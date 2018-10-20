@@ -1,0 +1,15 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "Express Test project in class",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milo MacPhail",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
